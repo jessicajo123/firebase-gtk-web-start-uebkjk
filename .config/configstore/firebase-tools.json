@@ -1,0 +1,66 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1688529465066
+	},
+	"usage": true,
+	"analytics-uuid": "242c2d4b-6f35-489b-9274-6e5967fef6e4",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "105579904233442536954",
+		"hd": "yem.altostrat.com",
+		"email": "jessica@yem.altostrat.com",
+		"email_verified": true,
+		"at_hash": "sAofk8DEkFy-MrCndFYoGg",
+		"iat": 1688443120,
+		"exp": 1688446720
+	},
+	"tokens": {
+		"expires_at": 1688547916975,
+		"refresh_token": "1//0g2bB_GGfLWDiCgYIARAAGBASNwF-L9IrfK-0_FwLw3KKwqYt4VT-irsdKpn9LrVkDdXT6LSZUm6su_xGy00lyKaXL2hG0wfaKdQ",
+		"scopes": [],
+		"access_token": "ya29.a0AbVbY6OdcF9XWK2PVu2c_QOjC3cK5m20qE15I7I0ODw05Jzu3bTNzW6D85Xb25dxwHEgHZ2YQxBjwwK6fRZz25OXQT4OpEFeA_uHA_1iL60p16f3FBLVC3pZtY5gyFS9JAFz7C_h0ryA3Sj3c4TyP2ya4SZzEcER7_aslgaCgYKAWISARESFQFWKvPlhggRqjBWZtzEEgHDEE7ZWA0173",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjkzNDFkZWRlZWUyZDE4NjliNjU3ZmE5MzAzMDAwODJmZTI2YjNkOTIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA1NTc5OTA0MjMzNDQyNTM2OTU0IiwiaGQiOiJ5ZW0uYWx0b3N0cmF0LmNvbSIsImVtYWlsIjoiamVzc2ljYUB5ZW0uYWx0b3N0cmF0LmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiUm1odUQ4cWlsMDVfTHdLbmdJU1RsZyIsImlhdCI6MTY4ODU0NDMxNywiZXhwIjoxNjg4NTQ3OTE3fQ.J4QkY2dUU-Ae-hA0iBcgQ8ZzbCrN6LlBRqCXEFvaA8z1PIOyKI3vQwzXmkdq6dHqh4cfS8pLorEodgcIRr0dl-BlEHKOlFPExo3BjH2hOh981AhQTpIx5cK5vSzU10Y8pFodNZMIcyewiK6or4mnIgsRoKFfQCKW3xUhhhZrBFZLkxeKJqXRu2MUuEvMC2RzwzFP4-jbMbx4EqJ8TqkIVgxfIeCVFMLbhF5sM3E5rlISt7ayJOCSvFMC90bscGth4rmnM9yFaGO8_Ib1kC010icZL-KZRg0WXiBjihnIPTrfXdw7C5OFE_YujagfF2kN0el2sZYnOFFs23osOq_6aQ"
+	},
+	"loginScopes": [
+		"email",
+		"openid",
+		"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"https://www.googleapis.com/auth/firebase",
+		"https://www.googleapis.com/auth/cloud-platform"
+	],
+	"activeProjects": {
+		"/home/jessica": "jessica-docai-resume-parser"
+	},
+	"emulator-analytics-clientId": "c2c4a2ce-e410-493d-a09d-793e77ce8c63",
+	"adminsdkconfig": {
+		"jessica-docai-resume-parser": {
+			"projectId": "jessica-docai-resume-parser",
+			"databaseURL": "https://jessica-docai-resume-parser-default-rtdb.firebaseio.com",
+			"storageBucket": "jessica-docai-resume-parser.appspot.com"
+		}
+	},
+	"webconfig": {
+		"jessica-docai-resume-parser": {
+			"projectId": "jessica-docai-resume-parser",
+			"appId": "1:163467198704:web:159822847fd85373ea8235",
+			"databaseURL": "https://jessica-docai-resume-parser-default-rtdb.firebaseio.com",
+			"storageBucket": "jessica-docai-resume-parser.appspot.com",
+			"apiKey": "AIzaSyCzlZl89rJ3FIJigDNO3bgk4uHvXMuXWCM",
+			"authDomain": "jessica-docai-resume-parser.firebaseapp.com",
+			"messagingSenderId": "163467198704",
+			"measurementId": "G-3E181TT8F9"
+		}
+	}
+}
